@@ -1,0 +1,6 @@
+@AfterReturning
+@AfterThrowing
+@After
+@Before
+@EnableAspectJAutoProxy
+@Aspect
